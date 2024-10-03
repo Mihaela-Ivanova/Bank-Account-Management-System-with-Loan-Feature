@@ -53,3 +53,12 @@ This project is designed to manage bank accounts with the following capabilities
 
  12.Exit 🚪
     - Exits the system.
+
+# Source code link
+
+https://pastebin.com/KLg4rrvJ
+
+# Screenshots
+Part of the program output looks like this:
+
+![Екранна снимка 2024-10-03 171029](https://github.com/user-attachments/assets/5a9b367c-489a-4f29-9a69-fcf2d3257690)
